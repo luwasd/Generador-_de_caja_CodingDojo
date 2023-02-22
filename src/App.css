@@ -1,0 +1,15 @@
+.App {
+    background-color: grey;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bolder;
+    width: 500px;
+    height: 200px;
+    padding: 50px;
+    border-radius: 5%;
+    border-style: dashed;
+    border-color: black;
+    margin: 100px 20% 0;
+}
+.Bloques{
+    margin-top: 20px;
+}
